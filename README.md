@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manudrake
-- 📚 I’m studying Computer Science at Unict
-- 🌱 I’m currently learning Unity
+- 📚 I have a degree in Computer Science at the University of Catania
+- 🌱 I’m currently learning Unity and Unreal
 - 📫 zuccaromanuel99@gmail.com
 
 <!---
